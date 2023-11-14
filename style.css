@@ -162,7 +162,7 @@ h2{
 
 
 /* Style the computer pegs */
-.computer-pegs {
+.secret-pegs {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -170,7 +170,7 @@ h2{
     margin-top: 15px;
   }
   
-  .computer-pegs .peg {
+  .secret-pegs .peg {
     width: 40px;
     height: 40px;
     border-radius: 50%;
